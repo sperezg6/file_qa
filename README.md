@@ -1,4 +1,4 @@
-# README for Document Question Answering Pipeline
+# Document Question Answering Pipeline
 
 This README provides an overview of a Python codebase designed for document-based question answering using deep learning models from the Hugging Face `transformers` and `datasets` libraries.
 
